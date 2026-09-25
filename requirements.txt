@@ -1,0 +1,7 @@
+# مطلوبة لتشغيل البرنامج
+arabic-reshaper>=3.0.1
+python-bidi>=0.6.11
+pyperclip>=1.11.0
+
+# مطلوبة لبناء ملف exe فقط
+pyinstaller>=6.22.3
