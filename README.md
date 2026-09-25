@@ -10,9 +10,13 @@
 
 ## ✅ تحميل مباشر
 
-**[⬇️ تحميل من صفحة الإصدارات (Releases)](https://github.com/MF7Sha/once-human/releases)**
+**[⬇️ تحميل مباشر — OnceHumanArabic.exe](https://github.com/MF7Sha/once-human/releases/download/v1.0.0/OnceHumanArabic.exe)**
 
-الإصدار الحالي: [`v1.0.0`](https://github.com/MF7Sha/once-human/releases/tag/v1.0.0) — ملف `OnceHumanArabic.exe` (ملف واحد، لا يحتاج تثبيت)
+الإصدار الحالي: [`v1.0.0`](https://github.com/MF7Sha/once-human/releases/tag/v1.0.0) — ملف `OnceHumanArabic.exe` (12.21 MB، ملف واحد، لا يحتاج تثبيت)
+
+```
+SHA256: 16B5EFCB60E6A1E60BDDCE2A77FD967F0A82CF6A720CAFFDFEF0192C38CD22EA
+```
 
 ---
 
