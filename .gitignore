@@ -1,0 +1,19 @@
+# ملفات البناء
+build/
+dist/
+*.spec.bak
+
+# بايثون
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ملفات النظام
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ملفات محلية
+.env
